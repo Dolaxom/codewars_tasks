@@ -5,3 +5,8 @@
 ### Solving problems from the codewars website in C++
 
 [My profile](https://www.codewars.com/users/TheDolaxom)
+
+---
+The lower the ``kyu`` level, the more difficult the tasks
+
+Чем ниже уровень ``kyu`` - тем сложнее задачи.
